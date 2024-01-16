@@ -1,4 +1,4 @@
-# Project_1_Part1: Linear Regression using R
+# Linear Regression
 
 The project focuses on conducting regression analysis using the "dataArrests" dataset. It begins by providing an overview of the dataset. The analysis aims to understand the relationships between explanatory variables such as Assault, Urban Prop, Traffic, Car Accidents, and the dependent variable, Murder.
 
@@ -7,7 +7,7 @@ The exploration starts with univariate and bivariate exploratory data analysis, 
 The project aims to construct a linear regression model to forecast the number of murders using the provided explanatory variables. Additionally, the analysis checks whether the linear regression model meets the five assumptions of ordinary least squares (OLS).
 Ultimately, the project's findings and results are expected to offer insights that can guide future resource allocation decisions by law enforcement.
 
-# Project 1_Part 2: K-means Clustering using R
+# K-means Clustering
 
 The project revolves around performing clustering analysis on the "wholesale" dataset. It commences by introducing the dataset, providing context and background information. Moreover, the exploratory data analysis phase highlights the exploration of variables within the dataset.
 
